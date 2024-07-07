@@ -1,0 +1,39 @@
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 3px solid pink;
+    border-radius: 10px;
+    text-align: center; 
+    width: 300px;
+    margin: auto;
+    padding: 2%;
+}
+
+.productlist {
+    font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    border: 3px dashed pink;
+    border-radius: 10px;
+    width: 500px;
+    margin: 2% auto;
+}
+
+.productID{
+    font-weight: bold;
+}
+
+.productPrice{
+    font-weight: bold;
+}
+
+.wrapper {
+    border: 1px solid black;
+}
+
+.fact {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 3px solid pink;
+    border-radius: 10px;
+    text-align: center; 
+    width: 500px;
+    margin: auto;
+}

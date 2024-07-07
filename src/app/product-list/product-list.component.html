@@ -1,0 +1,18 @@
+<br>
+<h1>{{title}}</h1>
+
+<div class="productlist" *ngFor="let product of productList">
+    <p class="productID">
+        <span>{{product.id}} | </span>
+        <span>{{product.productName}}</span>
+    </p>
+    <p>{{product.description}}</p>
+    <p class="productPrice">{{product.price}}</p>
+</div>
+
+
+<div class="fact">
+    <h3>{{catTitle}}</h3>
+    <p>{{catFact.fact}}</p>
+</div>
+<br>
